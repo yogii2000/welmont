@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50d2cbf0.css",
+    "main.js": "/static/js/main.7f48112e.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/banner.webp": "/static/media/banner.a7ac8343ff9e983b3f38.webp",
+    "static/media/content-banner.webp": "/static/media/content-banner.ce0458457c775eca0a48.webp",
+    "static/media/mbanner.webp": "/static/media/mbanner.51a48f63ce491415b7d1.webp",
+    "static/media/fac04.webp": "/static/media/fac04.40f5d984904a7251186c.webp",
+    "static/media/ftr.webp": "/static/media/ftr.abdacaa6e5dce24c2042.webp",
+    "static/media/fac01.webp": "/static/media/fac01.abb348185d9202a73bec.webp",
+    "static/media/ftrlogo.webp": "/static/media/ftrlogo.28bf6a4b73969ae5b753.webp",
+    "static/media/mindicon.webp": "/static/media/mindicon.0ef537c1eb9e0b70cd71.webp",
+    "static/media/fac03.webp": "/static/media/fac03.bffa73263444286b189a.webp",
+    "static/media/headerbtm.webp": "/static/media/headerbtm.c059a2e8c906e33b39e5.webp",
+    "static/media/colorbutter.webp": "/static/media/colorbutter.877106821b13f38603a7.webp",
+    "static/media/butterflyicon.webp": "/static/media/butterflyicon.77e86ad5452ed918e172.webp",
+    "static/media/childimg3.webp": "/static/media/childimg3.68cbcd99bd387d7fe9ad.webp",
+    "static/media/childimg1.webp": "/static/media/childimg1.775000c28c2bd31a95c7.webp",
+    "static/media/pragramimg.jpg": "/static/media/pragramimg.cc0c2534a3acbd671803.jpg",
+    "static/media/welmontLogo.webp": "/static/media/welmontLogo.28869732a10095dd534d.webp",
+    "static/media/childimg5.webp": "/static/media/childimg5.b27c87784c350c75b62b.webp",
+    "static/media/childimg2.webp": "/static/media/childimg2.2d9fd9dada492fc96045.webp",
+    "static/media/childimg4.webp": "/static/media/childimg4.e56d7322df7d34d09902.webp",
+    "index.html": "/index.html",
+    "main.50d2cbf0.css.map": "/static/css/main.50d2cbf0.css.map",
+    "main.7f48112e.js.map": "/static/js/main.7f48112e.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50d2cbf0.css",
+    "static/js/main.7f48112e.js"
+  ]
+}
